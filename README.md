@@ -1,4 +1,4 @@
-![alt text](Downloads/WhatsApp Image 2021-07-02 at 22.09.24.jpg)
+![alt text](src/WhatsApp Image 2021-07-02 at 22.09.24.jpg)
 
 
 # Getting Started with Create React App
