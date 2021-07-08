@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="https://github.com/rushithakare8/faceboookclone/blob/main/WhatsApp%20Image%202021-07-02%20at%2022.09.24.jpeg?raw=true" width="350" title="hover text">
 </p>
 
 
