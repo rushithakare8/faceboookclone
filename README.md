@@ -1,3 +1,6 @@
+![alt text](https://i.ytimg.com/vi/XQA1bbHQJp0/maxresdefault.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
